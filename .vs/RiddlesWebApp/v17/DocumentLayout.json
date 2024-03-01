@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|c:\\users\\vivek\\onedrive\\documents\\codingprojects\\riddlesapp\\riddleswebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|c:\\users\\vivek\\onedrive\\documents\\codingprojects\\riddlesapp\\riddleswebapp\\controllers\\riddlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|solutionrelative:controllers\\riddlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|c:\\users\\vivek\\onedrive\\documents\\codingprojects\\riddlesapp\\riddleswebapp\\views\\riddles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|solutionrelative:views\\riddles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|c:\\users\\vivek\\onedrive\\documents\\codingprojects\\riddlesapp\\riddleswebapp\\views\\riddles\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|solutionrelative:views\\riddles\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|c:\\users\\vivek\\onedrive\\documents\\codingprojects\\riddlesapp\\riddleswebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|c:\\users\\vivek\\onedrive\\documents\\codingprojects\\riddlesapp\\riddleswebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|c:\\users\\vivek\\onedrive\\documents\\codingprojects\\riddlesapp\\riddleswebapp\\views\\riddles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|solutionrelative:views\\riddles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|c:\\users\\vivek\\onedrive\\documents\\codingprojects\\riddlesapp\\riddleswebapp\\data\\migrations\\20240301063231_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|solutionrelative:data\\migrations\\20240301063231_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|c:\\users\\vivek\\onedrive\\documents\\codingprojects\\riddlesapp\\riddleswebapp\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|solutionrelative:data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|c:\\users\\vivek\\onedrive\\documents\\codingprojects\\riddlesapp\\riddleswebapp\\views\\riddles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|solutionrelative:views\\riddles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|c:\\users\\vivek\\onedrive\\documents\\codingprojects\\riddlesapp\\riddleswebapp\\views\\riddles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|solutionrelative:views\\riddles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|c:\\users\\vivek\\onedrive\\documents\\codingprojects\\riddlesapp\\riddleswebapp\\views\\riddles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|solutionrelative:views\\riddles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|c:\\users\\vivek\\onedrive\\documents\\codingprojects\\riddlesapp\\riddleswebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|c:\\users\\vivek\\onedrive\\documents\\codingprojects\\riddlesapp\\riddleswebapp\\models\\riddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|solutionrelative:models\\riddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|c:\\users\\vivek\\onedrive\\documents\\codingprojects\\riddlesapp\\riddleswebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|c:\\users\\vivek\\onedrive\\documents\\codingprojects\\riddlesapp\\riddleswebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|c:\\users\\vivek\\onedrive\\documents\\codingprojects\\riddlesapp\\riddleswebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A637C5F-F00A-4429-A1FC-7C2B17CA14A8}|RiddlesWebApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-01T15:26:26.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB8AAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T14:09:46.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T06:19:53.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Views\\Riddles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Riddles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Views\\Riddles\\Index.cshtml",
+              "RelativeToolTip": "Views\\Riddles\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T00:51:02.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Views\\Riddles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Riddles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Views\\Riddles\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Riddles\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T00:50:58.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RiddlesController.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Controllers\\RiddlesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RiddlesController.cs",
+              "ToolTip": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Controllers\\RiddlesController.cs",
+              "RelativeToolTip": "Controllers\\RiddlesController.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAUwKAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:47:08.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowSearchForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Views\\Riddles\\ShowSearchForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Riddles\\ShowSearchForm.cshtml",
+              "ToolTip": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Views\\Riddles\\ShowSearchForm.cshtml",
+              "RelativeToolTip": "Views\\Riddles\\ShowSearchForm.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T14:18:23.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T00:05:01.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240301063231_initialsetup.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Data\\Migrations\\20240301063231_initialsetup.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240301063231_initialsetup.cs",
+              "ToolTip": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Data\\Migrations\\20240301063231_initialsetup.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240301063231_initialsetup.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T06:32:31.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Views\\Riddles\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Riddles\\Details.cshtml",
+              "ToolTip": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Views\\Riddles\\Details.cshtml",
+              "RelativeToolTip": "Views\\Riddles\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T00:50:56.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Views\\Riddles\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Riddles\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Views\\Riddles\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Riddles\\Delete.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T00:48:54.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Views\\Riddles\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Riddles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Views\\Riddles\\Create.cshtml",
+              "RelativeToolTip": "Views\\Riddles\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T00:48:46.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:39:07.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Riddle.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Models\\Riddle.cs",
+              "RelativeDocumentMoniker": "Models\\Riddle.cs",
+              "ToolTip": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Models\\Riddle.cs",
+              "RelativeToolTip": "Models\\Riddle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:37:16.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:36:38.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T00:06:23.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vivek\\OneDrive\\Documents\\CodingProjects\\RiddlesApp\\RiddlesWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:04:56.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
