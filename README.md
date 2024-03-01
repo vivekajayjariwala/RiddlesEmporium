@@ -1,2 +1,4 @@
-Riddles Emporium is a web application that allows users to create and share riddles with other users. 
+# Riddles Emporium
+Built a full stack web application with ASP.NET Core MVC that allows users to create and share riddles. 
 
+Access the demo video here: 
